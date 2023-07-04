@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "593102446587",
+    "project_id": "emart-61a4d",
+    "storage_bucket": "emart-61a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593102446587:android:b90de246159ed5ae0a755e",
+        "android_client_info": {
+          "package_name": "vaibhav.com.e_commerce_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593102446587-7bk65m7epnsh58m6qi9qn3ghmndqcl3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG9Z0afMm4uJI59YGAXHp76KmE16pMcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593102446587-7bk65m7epnsh58m6qi9qn3ghmndqcl3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593102446587:android:1c4294e9622152610a755e",
+        "android_client_info": {
+          "package_name": "vaibhav.com.e_commerce_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593102446587-7bk65m7epnsh58m6qi9qn3ghmndqcl3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG9Z0afMm4uJI59YGAXHp76KmE16pMcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593102446587-7bk65m7epnsh58m6qi9qn3ghmndqcl3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
